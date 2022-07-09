@@ -1,5 +1,5 @@
 # Weekly Events
-This repository contains slides and outlines documents of Competitive Programming Club (CPC) formerly ACM Club (ACM at Ohio State). Content was transfered from https://github.com/cpcosu/Weekly_Events this repository will now be maintained and updated regularly.
+This repository contains slides and outlines documents of Competitive Programming Club (CPC) formerly ACM Club (ACM at Ohio State). Content pre AU21 can be found in the folder "Weekly_Events" or over at https://github.com/cpcosu/Weekly_Events. This repository will now be maintained and updated regularly moving forward.
 
 ## About Us
 We are a club that tries to challenge students to get really really good at problem solving. There is a very low entry barrier to getting started. Our meetings will introduce fun twists on classical algorithms, and provide interesting problems to work on your problem-solving abilities. Many recruits find the difficulty barrier daunting, but after continued exposure, problems that used to seem impossible will seem almost trivial!

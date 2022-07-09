@@ -1,0 +1,3 @@
+[submodule "Weekly_Events"]
+	path = Weekly_Events
+	url = https://github.com/cpcosu/Weekly_Events.git
