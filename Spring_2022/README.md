@@ -3,7 +3,7 @@ Weekly meetings are on Wednesdays at 6pm in Hitchcock rooms. **We will mainly be
 
 Meetings are streamed on zoom and we will try to remember to record. https://go.osu.edu/cpczoom
 
-Additional files are available in the folders of their respective dates.
+</br>
 
 Date | Topic | Room | Links | Recording
 --- | --- | --- | --- | ---
