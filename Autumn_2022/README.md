@@ -11,5 +11,9 @@ Wed Aug 31 | Intro + Speed Contests | [Google Slides](https://docs.google.com/pr
 Wed Sep 7 | Input/Output Basics | [Google Slides](https://docs.google.com/presentation/d/16Ia71UOuT08Hvcrdt2Bsh8o_VNah3XH6xambVIbefaY/edit?usp=sharing) | [Zoom](https://osu.zoom.us/rec/share/xNbpygWWeitl8GebJOCGoqCQtpiz7ibptEY5lBuyDgXoTbAYh-ltLMbcXic2O19H.wVfMkLwF3T4RQoXE?startTime=1662587346000) (Expires on 1/7/2023)
 Wed Sep 14 | Data Structures and Graph Representations | [Google Slides](https://docs.google.com/presentation/d/1Y2zrPP6SJ2klv2VhgtEKv4lv9NVNd_UoggancVzH1QA/edit?usp=sharing) | [Zoom](https://osu.zoom.us/rec/share/3uSGsdU_zNh_hBLd6qebCbxasDrsM187ncNDI77eEr6dmzGTuQqfOfB09P0XT6UZ.6maPY3Pdn8IKLq16?startTime=1663191043000) (Expires on 1/14/2023)
 Wed Sep 21 | BFS/DFS | [Google Slides](https://docs.google.com/presentation/d/11bL0QHdPIfIhpnVbNgIW3rMM5QiW0GhTl2lQ5eRAevA/edit?usp=sharing) | [Zoom](https://osu.zoom.us/rec/share/cPbZyKUUwGmBJ1g9XgViatmpVLws5B4QMK3x1pDolyg8QiPjhftLXSmFE8ILSDiC.uFspPP4IkCisJQ2I?startTime=1663796232000) (Expires on 1/21/2023)
-Wed Sep 28 | TBD
+Wed Sep 28 | Solving Mathematical Programming Problems | [Google Slides](https://docs.google.com/presentation/d/1w7G4yVoVmVqqKD22MpgVnjE6rrBlhFSjYUmF2oPJ_Ys/edit?usp=sharing) | [Zoom](https://osu.zoom.us/rec/share/lAvME49N2AwouEvCz6DEFDZiNQyT0zwGJS9guGPxisAgOTs7IOEfimHL91HyvBsP.-zZ8ymYzlCOpUa27?startTime=1664400656000) (Expires on 1/28/2023)
+Wed Oct 5 | Codeforces Practice!
+Wed Oct 12 | CodinGame
+Wed Oct 19 | Dynamic Programming
+Wed Oct 26 | TBD
 Fri Oct 28 - Sun Oct 30 | Buckeye Programming Competition
